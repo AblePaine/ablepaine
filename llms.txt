@@ -1,0 +1,27 @@
+# AblePaine
+
+> AblePaine (AblePaine LLC) is an indie software and game studio in Hartsville, South Carolina, USA. It builds buy-once, offline-first apps and games: no accounts, no subscriptions, no telemetry. Founded 2026.
+
+## Products (in development)
+
+- **PlotMyCash** — personal cash-flow forecasting app for Windows. Recurring income/bills in, projected balance out, one-time what-ifs. Fully offline; user data never leaves the PC. Status: in final testing, launching first.
+- **HerdRow** — herd book app for small cattle operations (registrations, breeding, calving, weaning). Status: in development.
+- **Breaker's Reach** — co-op survival game. Status: in development; the studio's flagship game.
+
+## Free web tools (live, no account)
+
+- [DoughMatrix](https://doughmatrix.com) — baker's calculation engines: dough hydration, batch scaling, bake scheduling, recipe costing.
+- [MicroRadicle](https://microradicle.com) — farm planning engines and a 3,000+ variety seed explorer.
+- [Saponis](https://saponis.app) — costing/formulation benches for soap and candle makers.
+
+## Principles
+
+- Buy once: one price, one time; no subscription rent.
+- Offline-first: software runs fully on the user's machine.
+- No accounts, no telemetry, no data collection.
+
+## Contact
+
+- Email: contact@ablepaine.com
+- X: https://x.com/AblePaineLLC
+- Newsletter: signup form on https://ablepaine.com (Kit).
